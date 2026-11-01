@@ -1,0 +1,6 @@
+{
+  "name": "无限横向扩展数据湖工作台 (Infinite Scale Data Lake)",
+  "description": "基于智能分区裁剪（Partition Pruning）与动态边缘存储节点外挂的高性能大数据湖工作台，容量完全脱钩，支持百亿至千亿行资产秒级检索与下推聚合。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+{
+  "summary":  "无限横向扩展（Infinite Horizontally Scalable）数据湖工作台架构设计方案，涵盖存储容量完全脱钩、智能分区裁剪（Partition Pruning）引擎、动态外挂 Cloudflare Pages 存储节点机制与百亿/千亿级分片矩阵拓扑可视化。",
+  "updatedAt":  "2026-11-01T01:50:39.714802173Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
